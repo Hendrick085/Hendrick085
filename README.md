@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Meu nome é Hendrick Moda 
+Estou estudando no Alura 
+Estou me desenvolvendo na linguagem Javascript 
+Utilizo esse espaço para minha organização e
+compartilhamento dos meus projetos desenvolvidos 
+hendrick.moda18@gmail.com
 <!--
 **Hendrick085/Hendrick085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:
+![] (link)
